@@ -13,17 +13,22 @@ def updateJson(directory, list):
 
 if __name__ == "__main__":
 
+    # Diretório do arquivo json
     jsonDirectory = "D:\\UnB\\Orientação a Objetos - Python - Monitoria\\1 - Orientação a Objetos - Como usar JSON em Pyhton\\aula-PythonJson\\deleteUser\\database\\users.json"
 
+    # Converte o arquivo json para uma lista de Dicionários
     with open(jsonDirectory) as fp:
         usersList = json.load(fp)
 
+    # Printa os Usuarios cadastrados
     print("Usuarios Cadastrados:")
     for user in usersList:  
         print(f"{user}\n")
 
     nameForDeletion = "Maria"
 
+    # função que deleta o usuario
     deleteUser(nameForDeletion, usersList)
 
+    # função que reescreve o json
     updateJson(jsonDirectory, usersList)
