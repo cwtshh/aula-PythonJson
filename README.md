@@ -30,8 +30,8 @@ Funções importantes:
 
 Noções importantes:
 
-    * If, for
-    * Dicionários python
+* If, for
+* Dicionários python
     
 # Por onde começamos?
 
@@ -47,11 +47,11 @@ Coloque [ ] no arquivo json, caso contrário o programa irá dar erro
 
 # Como podemos ler o arquivo?
 
- * Usamos a função open(), juntamente com a função json.load(). Desta forma, iremos abrir um arquivo e converte-lo para um dicionário.
+* Usamos a função open(), juntamente com a função json.load(). Desta forma, iremos abrir um arquivo e converte-lo para um dicionário.
 
 ![Screenshot_2](https://github.com/cwtshh/aula-PythonJson/assets/101185927/f00c610c-616b-45b5-b4ce-b55a750ee10d)
 
- * Assim podemos manipular o nosso json de maneira dinâmica e simples.
+* Assim podemos manipular o nosso json de maneira dinâmica e simples.
 
 # E agora?
 
