@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Gustavo",
+        "cpf": "77281193403",
+        "endereco": "Riacho Fundo 1",
+        "senhaConta": "123"
+    },
+    {
+        "nome": "Clara",
+        "cpf": "06256639159",
+        "endereco": "Guara",
+        "senhaConta": "321"
+    },
+    {
+        "nome": "Mike",
+        "cpf": "8883912004",
+        "endereco": "Ponte Alta",
+        "contaSenha": "8845"
+    },
+    {
+        "nome": "Cleiton",
+        "cpf": "4442356677",
+        "endereco": "Nova Yorque",
+        "senhaConta": "123"
+    },
+    {
+        "nome": "Pedro",
+        "cpf": "88755348590",
+        "endereco": "Asa Sul",
+        "senhaConta": "1234"
+    }
+]

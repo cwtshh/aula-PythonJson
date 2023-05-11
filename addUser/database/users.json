@@ -1,0 +1,48 @@
+[
+    {
+        "nome": "Gustavo",
+        "cpf": "06646639159",
+        "endereco": "Riacho Fundo 1",
+        "conta": "1234",
+        "senhaConta": "123",
+        "patrimonio": 1000
+    },
+    {
+        "nome": "Clara",
+        "cpf": "06256639159",
+        "endereco": "Ponte Alta",
+        "conta": "12345",
+        "senhaConta": "321",
+        "patrimonio": 5000
+    },
+    {
+        "nome": "Mike",
+        "cpf": "8883912004",
+        "endereco": "Ponte Alta",
+        "conta": "4567",
+        "contaSenha": "654",
+        "patrimonio": 6000
+    },
+    {
+        "nome": "Peter",
+        "cpf": "4442356677",
+        "endereco": "Nova Yorque",
+        "conta": "678",
+        "senhaConta": "123",
+        "patrimonio": 7000
+    },
+    {
+        "nome": "Pedro",
+        "id": 5,
+        "cpf": "88755348590",
+        "endereco": "Asa Sul",
+        "_User__senha": "1234"
+    },
+    {
+        "nome": "Maria",
+        "id": "9437",
+        "cpf": "82273394019",
+        "endereco": "Taguatinga",
+        "_User__senha": "123456"
+    }
+]
