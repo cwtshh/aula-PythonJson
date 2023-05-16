@@ -98,7 +98,11 @@ Após isso, podemos reescrever o nosso arquivo json para aplicar as modificaçõ
 
 Podemos aproveitar a mesma ideia que usamos para atualizar o objeto, apenas mudamos um pouco da lógica.
 
-![Screenshot_7](https://github.com/cwtshh/aula-PythonJson/assets/101185927/76c6bfc4-f067-4788-82f1-91e06626c464)
+```def deleteUser(userName, userList):
+    for user in userList:
+        if user['nome'] == userName:
+            userList.remove(user) 
+```
 
 E por fim... É só sobrescrever nosso arquivo!
 
